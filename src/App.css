@@ -1,4 +1,8 @@
 .App {
   text-align: center;
-  background-color: aliceblue;
+  /* background-color: aliceblue; */
+}
+
+.ui.main.container {
+  margin-top: 3em;
 }
